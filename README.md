@@ -2,16 +2,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Content-Based Movie Recommender using TF-IDF & Cosine Similarity</b>
   - [Content-Based Movie Recommender using TF-IDF & Cosine Similarity](https://github.com/z43zhang/Movie-Recommender)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+  - [Monet-Style Image Translator](https://github.com/z43zhang/Monet-Style-Image-Translator)
+
+  - [Real-Time Hand Gesture Recognition Using YOLOv5](https://github.com/z43zhang/YOLOv5)
+
+  - [CNN-Based Fruit Image Classification](https://github.com/z43zhang/CNN-Fruit)
 
 <h2>📜 Certifications</h2>
 
@@ -26,7 +23,6 @@
 [email]: mailto:z43zhang@gmail.com
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
