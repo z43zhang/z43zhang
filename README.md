@@ -20,7 +20,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Zhonghao Zhang | LinkedIn" width="24px" src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" />][linkedin]
-[<img align="left" alt="Zhonghao Zhang | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Email" width="24px" src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&bg=%23ffffff" />][email]
 
 [linkedin]: https://www.linkedin.com/in/zhonghao-zhang-842677285/
 [email]: mailto:z43zhang@gmail.com
