@@ -16,13 +16,14 @@
 <h2>📜 Certifications</h2>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d1d09b21-5a59-4503-9d14-ad13a3c0bd87)
-- [Machine Learning: AI, Python & R](https://www.udemy.com/certificate/UC-fb519c27-e894-4ef2-a341-4d3c029c5bcf/)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Zhonghao Zhang | LinkedIn" width="24px" src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" />][linkedin]
+[<img align="left" alt="Zhonghao Zhang | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/zhonghao-zhang-842677285/
+[email]: mailto:z43zhang@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
