@@ -2,11 +2,11 @@
 
 <h2>🧑‍💻 Projects:</h2>
 
-  ## - [Movie Recommendation System](https://github.com/z43zhang/movie-recommender)
+  ### - [Movie Recommendation System](https://github.com/z43zhang/movie-recommender)
 
 <h2>📜 Certifications</h2>
 
-  ## - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d1d09b21-5a59-4503-9d14-ad13a3c0bd87)
+  ### - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d1d09b21-5a59-4503-9d14-ad13a3c0bd87)
 
 <h2>🤳 Connect with me:</h2>
 
