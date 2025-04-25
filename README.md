@@ -2,7 +2,7 @@
 
 <h2>🧑‍💻 Projects:</h2>
 
-  - [Content-Based Movie Recommender using TF-IDF & Cosine Similarity](https://github.com/z43zhang/Movie-Recommender)
+  - [Content-Based Movie Recommender](https://github.com/z43zhang/movie-recommender)
 
 <h2>📜 Certifications</h2>
 
