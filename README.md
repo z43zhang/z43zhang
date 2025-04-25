@@ -4,12 +4,6 @@
 
   - [Content-Based Movie Recommender using TF-IDF & Cosine Similarity](https://github.com/z43zhang/Movie-Recommender)
 
-  - [Monet-Style Image Translator](https://github.com/z43zhang/Monet-Style-Image-Translator)
-
-  - [Real-Time Hand Gesture Recognition Using YOLOv5](https://github.com/z43zhang/YOLOv5)
-
-  - [CNN-Based Fruit Image Classification](https://github.com/z43zhang/CNN-Fruit)
-
 <h2>📜 Certifications</h2>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d1d09b21-5a59-4503-9d14-ad13a3c0bd87)
