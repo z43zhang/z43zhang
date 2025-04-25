@@ -2,7 +2,7 @@
 
 <h2>🧑‍💻 Projects:</h2>
 
-  - [Content-Based Movie Recommender](https://github.com/z43zhang/movie-recommender)
+  - [Movie Recommendation System](https://github.com/z43zhang/movie-recommender)
 
 <h2>📜 Certifications</h2>
 
