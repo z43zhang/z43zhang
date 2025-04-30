@@ -8,8 +8,13 @@ I design and build intelligent tools — from semantic search and recommender sy
 
 
 ## 🧑‍💻 NLP & LLMs Projects
-- [**Movie Recommendation System**](https://github.com/z43zhang/movie-recommender)
-- [**AI-powered Automations, Chatbot & Interface**](https://github.com/z43zhang/zapier-automation)
+
+- **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender)  
+  _A semantic search-based recommender using TF-IDF + SentenceTransformer embeddings._
+
+- **AI-powered Automations, Chatbot & Interface** · [🔗 View Project](https://github.com/z43zhang/zapier-automation)  
+  _Workflow automations, personalized chatbot and interface powered by Zapier._
+
 
 ## 🖥️ Full Stack Projects
 - [**Event Registration System**](https://github.com/z43zhang/event-registration)
@@ -24,3 +29,7 @@ I design and build intelligent tools — from semantic search and recommender sy
 - 💬 [Leave a Message](https://new-interface-2a359d.zapier.app/contact-me)
 
 ---
+
+
+
+
