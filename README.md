@@ -12,7 +12,7 @@ I design and build intelligent tools — from semantic search and recommender sy
 - [**AI-powered Automations, Chatbot & Interface**](https://github.com/z43zhang/zapier-automation)
 
 ## 🖥️ Full Stack Projects
-- [**Event Registration System**](https://github.com/z43zhang/registration)
+- [**Event Registration System**](https://github.com/z43zhang/event-registration)
 
 ## 📜 Certifications
 - [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/d1d09b21-5a59-4503-9d14-ad13a3c0bd87)
