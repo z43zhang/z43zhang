@@ -10,7 +10,7 @@ I design and build intelligent tools — from semantic search and recommender sy
 ## 🧑‍💻 NLP & LLMs Projects
 
 - **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender)  
-  _Combines TF-IDF, SVD, semantic embeddings, fuzzy search, and natural language query support — powered by Streamlit and TMDB API._
+  _Combines TF-IDF, SVD, semantic embeddings, fuzzy search, and natural language query — powered by Streamlit and TMDB API._
 
 - **AI-powered Automations, Chatbot & Interface** · [🔗 View Project](https://github.com/z43zhang/zapier-automation)  
   _Low-code workflow automations, personalized chatbot and modular interface built with Zapier._
