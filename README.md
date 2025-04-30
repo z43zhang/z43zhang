@@ -10,14 +10,16 @@ I design and build intelligent tools — from semantic search and recommender sy
 ## 🧑‍💻 NLP & LLMs Projects
 
 - **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender)  
-  _A semantic search-based recommender using TF-IDF + SentenceTransformer embeddings._
+  _Combines TF-IDF, SVD, semantic embeddings, fuzzy search, and natural language query support — powered by a live demo and TMDB API._
 
 - **AI-powered Automations, Chatbot & Interface** · [🔗 View Project](https://github.com/z43zhang/zapier-automation)  
-  _Workflow automations, personalized chatbot and interface powered by Zapier._
+  _Low-code workflow automations, personalized chatbot and modular interface built with Zapier._
 
 
 ## 🖥️ Full Stack Projects
-- [**Event Registration System**](https://github.com/z43zhang/event-registration)
+
+- **Event Registration System** · [🔗 View Project](https://github.com/z43zhang/event-registration)  
+  _A full-stack web app for managing event attendee registrations, built with React, Node.js, Express, and MySQL._
 
 ## 📜 Certifications
 - [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/d1d09b21-5a59-4503-9d14-ad13a3c0bd87)
