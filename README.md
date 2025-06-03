@@ -9,15 +9,15 @@ I design and build intelligent tools — from semantic search and recommender sy
 
 ## 🧑‍💻 NLP & LLMs Projects
 
-- **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender)  
+- **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender) · [🌐 Live Demo](https://cancer-score.streamlit.app)  
   _Combines TF-IDF, SVD, semantic embeddings, fuzzy search, and natural language queries — powered by Streamlit and TMDB API._
 
-- **AI-powered Automations, Chatbot & Interface** · [🔗 View Project](https://github.com/z43zhang/zapier-automation)  
+- **AI-powered Automations, Chatbot & Interface** · [🔗 View Project](https://github.com/z43zhang/zapier-automation) · [🌐 Live Demo](https://new-interface-2a359d.zapier.app/main)  
   _Low-code workflow automations, personalized chatbot and modular interface built with Zapier._
 
 ## 🤖 ML Projects
 
-- **Cancer Severity Prediction System** · [🔗 View Project](https://github.com/z43zhang/cancer-score)  
+- **Cancer Severity Prediction System** · [🔗 View Project](https://github.com/z43zhang/cancer-score) · [🌐 Live Demo](https://movie-recommender-bwnwhw5kbmhjkszgz6xlwt.streamlit.app/)  
   _An end-to-end ML pipeline with EDA, PCA, model selection, tuning, SHAP interpretability, and Streamlit deployment._
 
 ## 🖥️ Full Stack Projects
