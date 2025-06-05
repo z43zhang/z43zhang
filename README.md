@@ -1,11 +1,11 @@
 # Hi, I'm Zhonghao! 👋
 
-I'm an LLM engineer passionate about **natural language processing**, **large language models**, and **automation systems**.
-
-I design and build intelligent tools — from semantic search and recommender systems to chatbot interfaces and low-code workflow automations.
-
 📂 **Explore my featured projects below** to see how I apply AI and software engineering to solve real-world challenges.
 
+## 🖥️ Full Stack Projects
+
+- **Event Registration System** · [🔗 View Project](https://github.com/z43zhang/event-registration)  
+  _A full-stack web app for managing event attendee registrations, built with React, Node.js, Express, and MySQL._
 
 ## 🧑‍💻 NLP & LLMs Projects
 
@@ -19,11 +19,6 @@ I design and build intelligent tools — from semantic search and recommender sy
 
 - **Cancer Severity Prediction System** · [🔗 View Project](https://github.com/z43zhang/cancer-score) · [🌐 Live Demo](https://movie-recommender-bwnwhw5kbmhjkszgz6xlwt.streamlit.app/)  
   _An end-to-end ML pipeline with EDA, PCA, model selection, tuning, SHAP interpretability, and Streamlit deployment._
-
-## 🖥️ Full Stack Projects
-
-- **Event Registration System** · [🔗 View Project](https://github.com/z43zhang/event-registration)  
-  _A full-stack web app for managing event attendee registrations, built with React, Node.js, Express, and MySQL._
 
 ## 📜 Certifications
 - [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/d1d09b21-5a59-4503-9d14-ad13a3c0bd87)
