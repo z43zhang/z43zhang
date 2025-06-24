@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 NLP & LLMs Projects
 
-- **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender) · [🌐 Live Demo](https://cancer-score.streamlit.app)  
+- **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender) · [🌐 Live Demo](https://zhang-hybrid-recommender-system.streamlit.app/)  
   _Combines TF-IDF, SVD, semantic embeddings, fuzzy search, and natural language queries — powered by Streamlit and TMDB API._
 
 - **AI-powered Automations, Chatbot & Interface** · [🔗 View Project](https://github.com/z43zhang/zapier-automation) · [🌐 Live Demo](https://new-interface-2a359d.zapier.app/main)  
@@ -17,7 +17,7 @@
 
 ## 🤖 ML Projects
 
-- **Cancer Severity Prediction System** · [🔗 View Project](https://github.com/z43zhang/cancer-score) · [🌐 Live Demo](https://movie-recommender-bwnwhw5kbmhjkszgz6xlwt.streamlit.app/)  
+- **Cancer Severity Prediction System** · [🔗 View Project](https://github.com/z43zhang/cancer-score) · [🌐 Live Demo](https://zhang-cancer-severity-predictor.streamlit.app/)  
   _An end-to-end ML pipeline with EDA, PCA, model selection, tuning, SHAP interpretability, and Streamlit deployment._
 
 ## 📜 Certifications
