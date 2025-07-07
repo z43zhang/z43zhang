@@ -2,12 +2,9 @@
 
 📂 **Explore my featured projects below** to see how I apply AI and software engineering to solve real-world challenges.
 
-## 🖥️ Full Stack Projects
-
-- **Event Registration System** · [🔗 View Project](https://github.com/z43zhang/event-registration)  
-  _A full-stack web app for managing event attendee registrations, built with React, Node.js, Express, and MySQL._
-
 ## 🧑‍💻 NLP & LLMs Projects
+- **LangChain Documentation Chatbot RAG** · [🔗 View Project](https://github.com/z43zhang/langchain-chatbot) · [🌐 Live Demo](https://zhang-langchain-chatbot.streamlit.app/)  
+  _RAG, Pinecone — powered by Streamlit and TMDB API._
 
 - **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender) · [🌐 Live Demo](https://zhang-hybrid-recommender-system.streamlit.app/)  
   _Combines TF-IDF, SVD, semantic embeddings, fuzzy search, and natural language queries — powered by Streamlit and TMDB API._
@@ -19,6 +16,11 @@
 
 - **Cancer Severity Prediction System** · [🔗 View Project](https://github.com/z43zhang/cancer-score) · [🌐 Live Demo](https://zhang-cancer-severity-predictor.streamlit.app/)  
   _An end-to-end ML pipeline with EDA, PCA, model selection, tuning, SHAP interpretability, and Streamlit deployment._
+
+## 🖥️ Full Stack Projects
+
+- **Event Registration System** · [🔗 View Project](https://github.com/z43zhang/event-registration)  
+  _A full-stack web app for managing event attendee registrations, built with React, Node.js, Express, and MySQL._
 
 ## 📜 Certifications
 - [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/d1d09b21-5a59-4503-9d14-ad13a3c0bd87)
