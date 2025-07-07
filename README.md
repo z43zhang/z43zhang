@@ -2,7 +2,7 @@
 
 📂 **Explore my featured projects below** to see how I apply AI and software engineering to solve real-world challenges.
 
-## 🧑‍💻 NLP & LLMs Projects
+## 🧠 NLP & LLMs Projects
 - **LangChain Documentation Chatbot RAG** · [🔗 View Project](https://github.com/z43zhang/langchain-chatbot) · [🌐 Live Demo](https://zhang-langchain-chatbot.streamlit.app/)  
   _RAG, Pinecone — powered by Streamlit and TMDB API._
 
