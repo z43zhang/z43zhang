@@ -7,7 +7,7 @@
   _A multi-turn RAG chatbot using GPT-4o, Pinecone, Firecrawl, LangSmith tracing, and a Streamlit interface._
 
 - **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender) · [🌐 Live Demo](https://zhang-hybrid-recommender-system.streamlit.app/)  
-  _Combines TF-IDF, SVD, semantic embeddings, fuzzy search, and natural language queries — powered by Streamlit and TMDB API._
+  _Combines TF-IDF, SVD, semantic embeddings, fuzzy search, and NLP — powered by Streamlit and TMDB API._
 
 - **AI-powered Automations, Chatbot & Interface** · [🔗 View Project](https://github.com/z43zhang/zapier-automation) · [🌐 Live Demo](https://new-interface-2a359d.zapier.app/main)  
   _Low-code workflow automations, personalized chatbot and modular interface built with Zapier._
