@@ -3,7 +3,7 @@
 📂 **Explore my featured projects below** to see how I apply AI and software engineering to solve real-world challenges.
 
 ## 🧠 NLP & LLMs Projects
-- **RAG-Powered Chatbot for LangChain Documentation** · [🔗 View Project](https://github.com/z43zhang/langchain-chatbot) · [🌐 Live Demo](https://zhang-chatbot.streamlit.app/)  
+- **RAG-Powered Chatbot for LangChain Documentation** · [🔗 View Project](https://github.com/z43zhang/langchain-rag-chatbot) · [🌐 Live Demo](https://zhang-chatbot.streamlit.app/)  
   _A multi-turn RAG chatbot using GPT-4o, Pinecone, Firecrawl, LangSmith tracing, and a Streamlit interface._
 
 - **Movie Recommendation System** · [🔗 View Project](https://github.com/z43zhang/movie-recommender) · [🌐 Live Demo](https://zhang-hybrid-recommender-system.streamlit.app/)  
